@@ -1,0 +1,4 @@
+﻿  rotateArray.cpp
+D:\GitHub\leetcode\rotateArray\rotateArray\rotateArray.cpp(12,27): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\rotateArray\rotateArray\rotateArray.cpp(16,27): warning C4018: '<': signed/unsigned mismatch
+  rotateArray.vcxproj -> D:\GitHub\leetcode\rotateArray\rotateArray\Debug\rotateArray.exe
