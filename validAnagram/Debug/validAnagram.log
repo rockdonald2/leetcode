@@ -1,0 +1,4 @@
+﻿  validAnagram.cpp
+D:\GitHub\projects\validAnagram\validAnagram.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\projects\validAnagram\validAnagram.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+  validAnagram.vcxproj -> D:\GitHub\projects\validAnagram\Debug\validAnagram.exe
