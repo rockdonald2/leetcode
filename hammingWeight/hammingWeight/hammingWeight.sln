@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hammingWeight", "hammingWeight.vcxproj", "{90895616-C270-4A3A-A5A2-A020A1964ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90895616-C270-4A3A-A5A2-A020A1964ECC}.Debug|x64.ActiveCfg = Debug|x64
+		{90895616-C270-4A3A-A5A2-A020A1964ECC}.Debug|x64.Build.0 = Debug|x64
+		{90895616-C270-4A3A-A5A2-A020A1964ECC}.Debug|x86.ActiveCfg = Debug|Win32
+		{90895616-C270-4A3A-A5A2-A020A1964ECC}.Debug|x86.Build.0 = Debug|Win32
+		{90895616-C270-4A3A-A5A2-A020A1964ECC}.Release|x64.ActiveCfg = Release|x64
+		{90895616-C270-4A3A-A5A2-A020A1964ECC}.Release|x64.Build.0 = Release|x64
+		{90895616-C270-4A3A-A5A2-A020A1964ECC}.Release|x86.ActiveCfg = Release|Win32
+		{90895616-C270-4A3A-A5A2-A020A1964ECC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D341A3F-7B6E-42DD-98CA-3C6B2E536BB2}
+	EndGlobalSection
+EndGlobal
