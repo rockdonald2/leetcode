@@ -1,0 +1,3 @@
+﻿  pascalTriangle.cpp
+D:\GitHub\leetcode\pascalTriangle\pascalTriangle\pascalTriangle.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+  pascalTriangle.vcxproj -> D:\GitHub\leetcode\pascalTriangle\pascalTriangle\Debug\pascalTriangle.exe

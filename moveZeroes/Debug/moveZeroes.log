@@ -1,0 +1,4 @@
+﻿  moveZeroes.cpp
+D:\GitHub\leetcode\moveZeroes\moveZeroes.cpp(7,27): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\moveZeroes\moveZeroes.cpp(7,46): warning C4018: '<': signed/unsigned mismatch
+  moveZeroes.vcxproj -> D:\GitHub\leetcode\moveZeroes\Debug\moveZeroes.exe
