@@ -1,0 +1,3 @@
+﻿  myAtoi.cpp
+D:\GitHub\leetcode\myAtoi\myAtoi\myAtoi.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+  myAtoi.vcxproj -> D:\GitHub\leetcode\myAtoi\myAtoi\Debug\myAtoi.exe

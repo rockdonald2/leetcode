@@ -1,0 +1,3 @@
+﻿  strStr.cpp
+D:\GitHub\leetcode\strStr\strStr\strStr.cpp(11,34): warning C4018: '<': signed/unsigned mismatch
+  strStr.vcxproj -> D:\GitHub\leetcode\strStr\strStr\Debug\strStr.exe
