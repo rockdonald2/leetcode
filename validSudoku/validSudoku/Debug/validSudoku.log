@@ -1,0 +1,6 @@
+﻿  validSudoku.cpp
+D:\GitHub\leetcode\validSudoku\validSudoku\validSudoku.cpp(7,24): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\validSudoku\validSudoku\validSudoku.cpp(8,31): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\validSudoku\validSudoku\validSudoku.cpp(13,22): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\validSudoku\validSudoku\validSudoku.cpp(19,22): warning C4018: '<': signed/unsigned mismatch
+  validSudoku.vcxproj -> D:\GitHub\leetcode\validSudoku\validSudoku\Debug\validSudoku.exe

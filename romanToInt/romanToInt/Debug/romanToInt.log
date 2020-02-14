@@ -1,0 +1,4 @@
+﻿  romanToInt.cpp
+D:\GitHub\leetcode\romanToInt\romanToInt\romanToInt.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\romanToInt\romanToInt\romanToInt.cpp(13,9): warning C4018: '<': signed/unsigned mismatch
+  romanToInt.vcxproj -> D:\GitHub\leetcode\romanToInt\romanToInt\Debug\romanToInt.exe
