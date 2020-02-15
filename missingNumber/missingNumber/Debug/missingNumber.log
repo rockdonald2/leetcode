@@ -1,0 +1,3 @@
+﻿  missingNumber.cpp
+D:\GitHub\leetcode\missingNumber\missingNumber\missingNumber.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+  missingNumber.vcxproj -> D:\GitHub\leetcode\missingNumber\missingNumber\Debug\missingNumber.exe
