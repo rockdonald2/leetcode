@@ -1,0 +1,5 @@
+﻿  twoSum.cpp
+D:\GitHub\leetcode\rotateImage\twoSum\twoSum.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\rotateImage\twoSum\twoSum.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\rotateImage\twoSum\twoSum.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+  twoSum.vcxproj -> D:\GitHub\leetcode\rotateImage\twoSum\Debug\twoSum.exe
