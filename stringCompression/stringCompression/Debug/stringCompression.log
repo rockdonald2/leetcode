@@ -1,0 +1,4 @@
+﻿  stringCompression.cpp
+D:\GitHub\leetcode\stringCompression\stringCompression\stringCompression.cpp(14,11): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\stringCompression\stringCompression\stringCompression.cpp(20,12): warning C4018: '<': signed/unsigned mismatch
+  stringCompression.vcxproj -> D:\GitHub\leetcode\stringCompression\stringCompression\Debug\stringCompression.exe
