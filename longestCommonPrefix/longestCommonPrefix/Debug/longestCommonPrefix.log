@@ -1,0 +1,4 @@
+﻿  longestCommonPrefix.cpp
+D:\GitHub\leetcode\longestCommonPrefix\longestCommonPrefix\longestCommonPrefix.cpp(34,21): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\longestCommonPrefix\longestCommonPrefix\longestCommonPrefix.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+  longestCommonPrefix.vcxproj -> D:\GitHub\leetcode\longestCommonPrefix\longestCommonPrefix\Debug\longestCommonPrefix.exe
