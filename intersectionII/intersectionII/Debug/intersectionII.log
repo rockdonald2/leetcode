@@ -1,0 +1,4 @@
+﻿  intersectionII.cpp
+D:\GitHub\leetcode\intersectionII\intersectionII\intersectionII.cpp(15,15): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\intersectionII\intersectionII\intersectionII.cpp(15,40): warning C4018: '<': signed/unsigned mismatch
+  intersectionII.vcxproj -> D:\GitHub\leetcode\intersectionII\intersectionII\Debug\intersectionII.exe

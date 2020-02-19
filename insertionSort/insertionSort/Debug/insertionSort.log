@@ -1,0 +1,3 @@
+﻿  insertionSort.cpp
+D:\GitHub\leetcode\insertionSort\insertionSort\insertionSort.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+  insertionSort.vcxproj -> D:\GitHub\leetcode\insertionSort\insertionSort\Debug\insertionSort.exe

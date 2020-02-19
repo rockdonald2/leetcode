@@ -1,0 +1,3 @@
+﻿  validParentheses.cpp
+D:\GitHub\leetcode\validParentheses\validParentheses\validParentheses.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+  validParentheses.vcxproj -> D:\GitHub\leetcode\validParentheses\validParentheses\Debug\validParentheses.exe
