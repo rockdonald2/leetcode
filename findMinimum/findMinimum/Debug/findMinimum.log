@@ -1,0 +1,3 @@
+﻿  findMinimum.cpp
+D:\GitHub\leetcode\findMinimum\findMinimum\findMinimum.cpp(17,11): warning C4018: '<': signed/unsigned mismatch
+  findMinimum.vcxproj -> D:\GitHub\leetcode\findMinimum\findMinimum\Debug\findMinimum.exe
