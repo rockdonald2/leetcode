@@ -1,0 +1,6 @@
+﻿  findK.cpp
+D:\GitHub\leetcode\findK\findK\findK.cpp(16,11): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\findK\findK\findK.cpp(33,12): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\findK\findK\findK.cpp(45,26): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\findK\findK\findK.cpp(52,18): warning C4018: '>': signed/unsigned mismatch
+  findK.vcxproj -> D:\GitHub\leetcode\findK\findK\Debug\findK.exe
