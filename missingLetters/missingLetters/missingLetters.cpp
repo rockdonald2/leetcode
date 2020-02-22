@@ -18,8 +18,8 @@ char missing(string& str) {
 
 	return NULL;*/
 
-	for (int i = 0; i < str.length(); ++i) {
-		if (i < str.length() - 1 && str[i] + 1 != str[i + 1]) return str[i] + 1;
+	for (int i = 0; i < str.length() - 1; ++i) {
+		if (str[i] + 1 != str[i + 1]) return str[i] + 1;
 	}
 
 	return NULL;
