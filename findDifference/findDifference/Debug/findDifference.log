@@ -1,0 +1,4 @@
+﻿  findDifference.cpp
+D:\GitHub\leetcode\findDifference\findDifference\findDifference.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\findDifference\findDifference\findDifference.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+  findDifference.vcxproj -> D:\GitHub\leetcode\findDifference\findDifference\Debug\findDifference.exe
