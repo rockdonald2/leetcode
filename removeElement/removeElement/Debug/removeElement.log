@@ -1,0 +1,9 @@
+﻿  removeElement.cpp
+D:\GitHub\leetcode\removeElement\removeElement\removeElement.cpp(15,14): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\removeElement\removeElement\removeElement.cpp(15,36): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\removeElement\removeElement\removeElement.cpp(16,15): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\removeElement\removeElement\removeElement.cpp(16,37): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\removeElement\removeElement\removeElement.cpp(21,15): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\leetcode\removeElement\removeElement\removeElement.cpp(25,12): warning C4018: '>=': signed/unsigned mismatch
+D:\GitHub\leetcode\removeElement\removeElement\removeElement.cpp(25,35): warning C4018: '>=': signed/unsigned mismatch
+  removeElement.vcxproj -> D:\GitHub\leetcode\removeElement\removeElement\Debug\removeElement.exe
