@@ -9,7 +9,7 @@ class Solution:
 
         if n == 0:
             return 1
-        
+
         if n < 0:
             return 1 / x * self.myPow(x, n + 1)
         elif n > 0:
