@@ -3,3 +3,6 @@
 /node_modules/
 package-lock.json
 /tmp/
+CMakeLists.txt
+cmake-build-debug
+.idea
